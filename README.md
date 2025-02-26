@@ -8,7 +8,7 @@ My personal efi for macOS sonoma for the ASUS F512FB
 
 ### Supports macOS Sonoma 14.7.4
 
-![Desktop Screen](Images/desktop.png)
+![Desktop Screen](images/desktop.png)
 
 ## Specs
 
