@@ -12,13 +12,20 @@ My personal efi for macOS sonoma for the ASUS X512FB
 ![Desktop Screen](images/desktop.png)
 
 # Index
-[Specs](#specs)
-[Working Status](#working-status)
-[Know issues](#know-issues)
-[Not tested](#not-tested)
-[Not work](#not-work)
-[Installation](#installation)
-[Post-Installation](#post-installation)
+[Specs](#specs)  
+
+[Working Status](#working-status)  
+
+[Know issues](#know-issues)  
+
+[Not tested](#not-tested)  
+
+[Not work](#not-work)  
+
+[Installation](#installation)  
+
+[Post-Installation](#post-installation)  
+
 [To Do List](#to-do-list)
 
 ## Specs
