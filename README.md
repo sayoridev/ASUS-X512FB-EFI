@@ -94,3 +94,4 @@ My personal efi for macOS sonoma for the ASUS X512FB
 - [ ] Fix webcam
 - [ ] Fix Touchpad
 - [ ] Rebuild efi from 0
+- [ ] Credits
