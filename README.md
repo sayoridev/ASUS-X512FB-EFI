@@ -35,7 +35,7 @@ My personal efi for macOS sonoma for the ASUS X512FB
 |CPU|8th Gen i5-8265U|
 |GPU 1|Intel UHD 620|
 |GPU 2|Nvidia GeForce MX110
-|SSD|Inteno 512 GB M.2 Sata|
+|SSD|Intenso 512 GB M.2 Sata|
 |Audio|Realtek ALC256|
 |RAM|12GB 2400Mhz DDR4|
 |Wifi Adapter|Intel AC-9560|
